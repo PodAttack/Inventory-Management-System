@@ -1,4 +1,4 @@
-# Inventory Management System
+# Maasai Mara Inventory Management System
 
 This is a responsive inventory management application that automates the daily activities of a computer training school.
 
